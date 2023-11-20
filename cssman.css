@@ -16,3 +16,8 @@ a:hover {
 p {
     color: yellowgreen;
 }
+
+img {
+    border: 2rem;
+    flex-wrap: wrap;
+}
