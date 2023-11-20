@@ -4,12 +4,14 @@ h1 {
 }
 
 a {
-  color: rgb(0, 255, 208);
-}
+    color: rgb(0, 255, 208)
+  }
 
 a:hover {
-    color: blue;
+    color: orchid;
 }
+
+
 
 p {
     color: yellowgreen;
